@@ -6,8 +6,6 @@ This is an iOS demo application of the [Dropbox Carousel](https://carousel.dropb
 
 Time spent: 20 hours
 
-----------
-
 # Project Requirements - Completed
 
 Set up
@@ -60,9 +58,6 @@ Optional: Learn more about Carouse
 - [  ] Share a photo
 - [  ] Optional: Upon completion of the events, mark them green.
 - [  ] Optional: When all events are completed, dismiss the banner.
-
-----------
-
 
 ![carousel-walkthrough](https://github.com/sayheyrickjames/codepath-week2-carousel/blob/master/carousel-walkthrough.gif?raw=true)
 
